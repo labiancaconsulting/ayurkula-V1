@@ -12,9 +12,9 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-      All rights reservered - Ayurkula.com
+      All rights reserved - 
        
-      <Link to="/">ayurkula.com</Link>
+      <Link to="/">Ayurkula.com</Link> 2022
       </p>
     </div>
   </footer>
