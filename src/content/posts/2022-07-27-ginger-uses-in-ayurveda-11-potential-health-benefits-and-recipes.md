@@ -163,11 +163,10 @@ It is used in various conditions including as an:
 
   ![Ginger carrot soup](/assets/screen-shot-2022-07-27-at-12.06.38-pm.png)
 
-Take a few carrots (eg. 4-5 for ratio) and about 2 inches of ginger. Scrub and chop into one inch pieces. 
-
-Warm butter or ghee in a pan and add the ginger and carrot pieces.
-
-
+1. Take a few carrots (eg. 4-5 for ratio) and about 2 inches of ginger. Scrub and chop into one inch pieces. 
+2. Warm butter or ghee in a pan and add the ginger and carrot pieces.
+3. Stir for a couple of minutes and then add 4-5 cups of water, salt per taste and pepper. Cook well till soft. It takes me about 10 minutes in a cooker and about 15-20 in a pan.
+4. Once cooled a little, grind well in a mixer. Add more water (or coconut milk) to dilute as you like. Add some freshly dry-fried and ground coriander seeds and a squeeze of lemon if you wish. Some green coriander leaves add to its beauty and flavor! This should serve four people. 
 
 ### Ginger Tomato Chutney
 
