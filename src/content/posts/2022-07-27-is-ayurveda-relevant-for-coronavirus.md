@@ -9,7 +9,7 @@ description: In this piece, I provide an overview of the human immune system and
   recommendations for herbal treatments that can potentially help people
   strengthen their immune systems and ability to fight viruses like the
   Coronavirus.
-featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
+featuredImage: /assets/screen-shot-2020-02-05-at-10.52.40-am-2.png
 ---
 **Summary**
 
