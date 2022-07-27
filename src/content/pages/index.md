@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Ayurkula
 tagline: Find your path to health
-featuredImage: /assets/screen-shot-2022-04-10-at-6.49.54-pm.webp
+featuredImage: /assets/screen-shot-2022-07-26-at-11.03.47-pm.png
 cta:
   ctaText: Know more
   ctaLink: /about
