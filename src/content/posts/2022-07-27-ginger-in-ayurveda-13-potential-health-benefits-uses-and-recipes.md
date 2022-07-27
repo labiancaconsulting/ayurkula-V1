@@ -9,6 +9,7 @@ description: "In this blog post, we’ll be exploring the uses of ginger in
   we believe it still has a lot to teach us. Ginger in Ayurveda has been
   traditionally used to balance doshas and treat many different types of
   conditions. "
+featuredImage: /assets/screen-shot-2022-06-07-at-12.29.07-pm.png
 ---
 In this blog post, we’ll be exploring the uses of ginger in Ayurveda through the lens of modern science. Ayurveda, which originated in ancient India, is one of the world’s oldest health practices—and at Ayurkula, we believe it still has a lot to teach us. Ginger in Ayurveda has been traditionally used to balance doshas and treat many different types of conditions. 
 
