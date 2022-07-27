@@ -139,7 +139,7 @@ Remember, the source of your milk matters: make sure it comes from animals that 
 
 We made ghee at Ayurkula by using a fermented slow cook method on a full moon night in true Vedic fashion.
 
-<https://www.youtube.com/watch?v=FDSGMnEsPO0>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDSGMnEsPO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now let us try our hand at a simple recipe that uses ghee. 
 
