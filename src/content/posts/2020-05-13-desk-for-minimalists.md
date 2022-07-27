@@ -9,8 +9,6 @@ description: In this post, we will explore the health benefits of ghee in
   ghee and use it in recipes.
 featuredImage: /assets/screen-shot-2022-07-27-at-10.03.40-am.png
 ---
-
-
 Ghee, used in the Indian subcontinent for thousands of years, has recently become a superfood. In this post, we will explore the health benefits of ghee in Ayurveda, tying in modern science. We’ll first discuss the history and composition of ghee and then its Ayurvedic uses. Last, we’ll learn to make ghee and use it in recipes.
 
 Before we go on, let’s start with the core questions: *Why are we thinking about this topic now, and is this where our focus should be?* 
@@ -141,7 +139,7 @@ Remember, the source of your milk matters: make sure it comes from animals that 
 
 We made ghee at Ayurkula by using a fermented slow cook method on a full moon night in true Vedic fashion.
 
-https://www.youtube.com/watch?v=FDSGMnEsPO0
+<https://www.youtube.com/watch?v=FDSGMnEsPO0>
 
 Now let us try our hand at a simple recipe that uses ghee. 
 
@@ -170,8 +168,6 @@ When thinking about the health benefits of ghee in Ayurveda, it’s important to
 We have seen swings from low fat to high fat diets as users fall for fads that tinker with carbs, fats and protein for weight loss and nirvana. In many cases, people I speak with are **looking for the one magic food they can add** to their diet. Often, they’d benefit much more from **removing one or two harmful foods or behaviors**. 
 
 To learn more, you can subscribe to our newsletter or write me a note at rajat@ayurkula.org. I offer workshops as well as deeper content on the above, we analyze our doshas and find our paths to wellness.
-
-
 
 ### DISCLAIMER
 
