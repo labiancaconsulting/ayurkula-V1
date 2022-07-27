@@ -9,8 +9,6 @@ description: In this blog post, we’ll be exploring the uses of ginger in
   conditions. 
 featuredImage: /assets/screen-shot-2022-07-27-at-12.01.37-pm.png
 ---
-
-
 In this blog post, we’ll be exploring the uses of ginger in Ayurveda through the lens of modern science. Ayurveda, which originated in ancient India, is one of the world’s oldest health practices—and at Ayurkula, we believe it still has a lot to teach us. Ginger in Ayurveda has been traditionally used to balance doshas and treat many different types of conditions. 
 
 In this post, we’ll first discuss the history of ginger from a modern “superfood” back to ginger’s traditional uses in Ayurveda. We’ll then explore the health benefits of ginger that modern studies have uncovered as well as practical ways you can use ginger in your health routine.
@@ -169,8 +167,23 @@ Take a few carrots (eg. 4-5 for ratio) and about 2 inches of ginger. Scrub and c
 
 Warm butter or ghee in a pan and add the ginger and carrot pieces.
 
-v
-
 
 
 ### Ginger Tomato Chutney
+
+![Ginger Tomato Chutney](/assets/screen-shot-2022-07-27-at-12.13.29-pm.png)
+
+Make as much as you wish of this tomato chutney because it won’t stay around long — it usually gets eaten before you know it!
+
+1. Chop tomatoes into small pieces. 
+2. Chop ginger into matchstick thin, half a centimeter long pieces. 
+3. In a big pan, add ghee or oil. To this add about a pinch of asafetida (hing or Dragon’s breath), a tsp of cumin and fennel seeds, a pinch of turmeric, some curry leaves and fry. 
+4. Once blossomed, add ginger and then tomatoes and cover and cook. Once in a while, smash the tomatoes with a ladle. When they are well cooked, soft and smashed up, add some salt and a pinch of sugar or gur. Flavor with chopped green coriander leaves. Enjoy with parathas, sandwiches, or any accompaniment. 
+
+There are numerous other ways to use and experiment with ginger – as a meat tenderizer, in sauteed vegetables, etc. Simply use your imagination and remember that a little goes a long way.
+
+**A word of caution: Having excessive ginger may cause an upset gut, heartburn, skin irritation or other issues such as bleeding when used indiscriminately. If you are on certain drugs, it may interfere with them. Be sensible. Ginger extracts and isolates of active ingredients may not always work in the same fashion as unprocessed ginger—even more so in humans as opposed to animals.** 
+
+**Bottomline: Ginger in Ayurveda can be wonderful but use common sense and always consult your doctor!**
+
+To learn more, you can subscribe to our newsletter or write me a note at [rajat@ayurkula.org](<>). I offer workshops as well as deeper content on the above.
