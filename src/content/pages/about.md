@@ -3,49 +3,52 @@ template: about-page
 slug: /about
 title: About Foundation
 ---
+**Rajat Bhu, Founder**
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+![](/assets/screen-shot-2022-07-26-at-11.01.36-pm.png)
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+I have been passionate about mind and body wellness since my days in college. As a young adult, I often made trips to the Allahabad railway station on my motor-cycle, slipping a one Rupee coin into the weighing machine to visit a small decrepit book-store on platform number one to add to my collection of books on philosophy, mind, and health.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Over the years I continued to connect the dots between yoga, Ayurveda, natural healing, epigenetics, nutrition, exercise, meditation, and mind. How would half-peeled garlic clove have an entirely different impact on my gut bacteria? Why might multi-strain yogurt not actually work? After my wife was diagnosed with cancer, I discovered the amazing immunity-boosting impact of natural foods. Today, my experiential approach combines Western and traditional practices, integrating my knowledge from a series of certificate courses I completed from leading medical universities such as Johns Hopkins, Wageningen, Colorado Boulder, Edinburgh, Stanford and Technion as well as ayurveda from American School of Vedic Studies. My learning has been deeply influenced by my late uncle Prof. G.C Pande, Prof. Subhash Kak, Dr. David Frawley and Prof. Sthaneshwar Timalsina. Their wonderful writings and conversations continue to lead me beyond.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+In a previous life, I worked for over two decades in[ finance](https://www.linkedin.com/in/rajatbhu/), traversing a commercial bank, rating agency, investment bank and hedge fund, both in India and the US. Alongside my business career, I have been involved with various community initiatives, spearheading carbon-footprint reductions and nonprofit donation drives in my town. In an attempt to create broader change, I created theHOBMOB.com to try to seed a place for meaningful dialogue on social media. I have since been using my skills and knowledge to educate some of my friends facing life threatening diseases like cancer, promoting both nutritional and lifestyle changes and the [COVID crisis](http://ayurkula.org/2020/03/06/is-ayurveda-even-relevant-for-coronavirus/). 
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+The reasons for disease and suffering are not complicated or hidden. If you are ready to introspect, we can begin the journey to better living. Sustainable human health and the future of our planet are closely intertwined. 
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+As I say in Sanskrit:
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+“तत्  रक्षति स्वास्थ्य,
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+रक्षति भू काशिष्यते”
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+“That which sustains health,
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+Will sustain the planet”
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+**Partners**
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+**Dr. Madhumita Krishnan**
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+B.A.M.S, M.D in Ayurveda
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+![](https://ayurkula.files.wordpress.com/2021/08/img_20180424_124655-1-1-2-1-2-edited.jpg?w=150)
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+Dr. Krishnan is an experienced Āyurveda paediatrician and an expert in Āyurvedic dietetics based in Bengaluru. She believes that an integrative framework holds the keys to future of medicine in general and in understanding the jargonistic area of precision nutrition in particular. She has a special interest in educating mothers about the advantages of Ayurveda techniques in post-natal infant care. Her research interests include management of children with special needs-cerebral palsy, autism etc.
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Some fun facts- she is a polyglot, a hiker who can probably beat you at squash and meditate while doing pottery glazes.
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+Madhumita Krishnan is not a medical doctor or physician. By no means is this to be confused with becoming a medical doctor (MD) in USA which requires a whole other level of training and licensure. Madhumita will only be participating in educational events and workshops.
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+**Dr. Prasan Shankar**
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+B.A.M.S, M.D Ayurveda
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+![](https://ayurkula.files.wordpress.com/2021/07/screen-shot-2021-07-02-at-1.48.30-pm.png?w=142)
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+Dr. Prasan Shankar, a Charaka awardee, is an Āyurveda Physician working in the Rasayana tantra (Geriatric) unit at the [Institute of Āyurveda and Integrative medicine](https://www.iaimhealthcare.org/about-us/)-TDU. He treats various neurological and neurodegenerative disorders like strokes and parkinsonism, arthritis spectrum disorders, supportive and complementary cancer care, supportive cardiac care and other age related problems. He has an interest in doing research around practice and is involved in research related to Āyurvedic management of neurological disorders, cancer and is involved in various research projects. He has an M.D in Pañcakarma and is currently the Medical Director at the Institute of Āyurveda and Integrative Medicine, Bangalore.
+
+Some fun facts: Manchester United is his favorite soccer team and this doting dad is up and about well into Pitta time strumming his guitar if not researching Āyurveda .
+
+Prasan Shankar is not a medical doctor or physician. By no means is this to be confused with becoming a medical doctor (MD) in USA which requires a whole other level of training and licensure. Prasan will only be participating in educational events and workshops.
+
+*\*Ayurveda is a 5000 year old Indian Vedic “Science of Life”. Ayurveda deals integrally with mind, body and spirit*.
