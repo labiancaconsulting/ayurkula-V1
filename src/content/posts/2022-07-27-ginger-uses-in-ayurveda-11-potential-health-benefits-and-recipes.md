@@ -33,11 +33,11 @@ The ginger plant has over 25 varieties and prefers to grow in hot, humid climate
 
 ## Uses of Ginger in Ayurveda
 
-Ginger in Ayurveda is used as a fresh root, as a powder, and also in numerous formulations. It has two different names depending on how it’s used, the fresh form is known as “adrak” and the dry form is called “shunti.” Its wet form is milder, shorter-acting, and suits the [pitta dosha](http://ayurkula.com/2022/05/29/what-are-different-doshas-in-ayurveda-and-can-your-dosha-change/) better. The dry powder is more heating and suits the vatta/kapha doshas better. 
+Ginger in Ayurveda is used as a fresh root, as a powder, and also in numerous formulations. It has two different names depending on how it’s used, the fresh form is known as “adrak” and the dry form is called “shunti.” Its wet form is milder, shorter-acting, and suits the [pitta dosha](https://ayurkula.com/2022/05/29/what-are-different-doshas-in-ayurveda-and-can-your-dosha-change/) better. The dry powder is more heating and suits the vatta/kapha doshas better. 
 
-In Ayurveda, a plants or food's properties determine when it should be used. In contrast to western medicine, which generally treats all people suffering from particular conditions as a group, Ayurveda treats based on the balance of an individual's doshas. This means that what’s good for one person, may be counterproductive or even harmful for another.
+In Ayurveda, a plants or food’s properties determine when it should be used. In contrast to western medicine, which generally treats all people suffering from particular conditions as a group, Ayurveda treats based on the balance of an individual’s doshas. This means that what’s good for one person, may be counterproductive or even harmful for another.
 
-Ginger’s Ayurvedic properties are “pungent” (katu), hot in potency, oily, and with a sweet aftertaste. It mitigates excess  [kapha and vata](http://ayurkula.com/2022/05/29/what-are-different-doshas-in-ayurveda-and-can-your-dosha-change/) and their associated conditions like obesity or arthritis, respectively. 
+Ginger’s Ayurvedic properties are “pungent” (katu), hot in potency, oily, and with a sweet aftertaste. It mitigates excess  [kapha and vata](https://ayurkula.com/2022/05/29/what-are-different-doshas-in-ayurveda-and-can-your-dosha-change/) and their associated conditions like obesity or arthritis, respectively. 
 
 In addition, ginger is used in many formulations which address other body imbalances and disease conditions which we will take up at another time.
 
@@ -51,117 +51,125 @@ It is used in various conditions including as an:
 * treatment for cold, cough, respiratory issues
 * dissolver of toxins
 
-  One of many Ayurvedic references to ginger comes from an ancient sanskrit shloka from the Astanga Hridyam, 500 AD:
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.29.07-pm.png?w=876)
 
-  ![](/assets/screen-shot-2022-07-27-at-12.03.30-pm.png)
+Ginger root scientific and ayurvedic benefits
 
-  A rough translation of the shloka above would be that “Ginger increases hunger and is an aphrodisiac, water-absorbent, good for the heart/mind, relieves constipation, increases taste, and is easily digestible.”
+One of many Ayurvedic references to ginger comes from an ancient sanskrit shloka from the Astanga Hridyam, 500 AD:
 
-  A classic formulation that includes ginger is made from three pungents (spices), including ginger, black pepper and long pepper. This combination is referenced in the ancient texts:
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.30.25-pm.png?w=1024)
 
-  ![](/assets/screen-shot-2022-07-27-at-12.04.23-pm.png)
+A rough translation of the shloka above would be that “Ginger increases hunger and is an aphrodisiac, water-absorbent, good for the heart/mind, relieves constipation, increases taste, and is easily digestible.”
 
-  A rough translation would be “this combination is useful in obesity, indigestion, cough/difficulty in breathing, infectious diseases, and the inflammation of nasal mucosa.”
+A classic formulation that includes ginger is made from three pungents (spices), including ginger, black pepper and long pepper. This combination is referenced in the ancient texts:
 
-  ## Science-backed health benefits of the use of ginger in Ayurveda
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.31.56-pm.png?w=1024)
 
-  Ginger’s traditional uses continue to be validated by modern scientific studies. Let’s explore some of the potential health benefits of ginger and how they connect to ginger in Ayurveda.
+A rough translation would be “this combination is useful in obesity, indigestion, cough/difficulty in breathing, infectious diseases, and the inflammation of nasal mucosa.”
 
-  ## 1- Helps to reduce nausea
+## Science-backed health benefits of the use of ginger in Ayurveda
 
-  Nausea, or the urge to vomit, can be caused by numerous factors such as stress, motion sickness, pregnancy, food poisoning, and the side effects of medical treatments like chemotherapy for cancer. 
+Ginger’s traditional uses continue to be validated by modern scientific studies. Let’s explore some of the potential health benefits of ginger and how they connect to ginger in Ayurveda.
 
-  Numerous studies have supported ginger’s anti-nausea effects and it has also been studied for relief of morning sickness in pregnant women. [One analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341159/) goes as far as suggesting: that *“ginger could be considered a harmless and possibly effective alternative option for women suffering from the symptoms of nausea and vomiting in pregnancy.”*
+## 1- Helps to reduce nausea
 
-  Ginger in Ayurveda is generally chewed upon for nausea relief along with a dash of lime and rock salt. The current scientific theory for gingers’ potential anti-nausea effects is that it [blocks the serotonin receptors](https://www.ema.europa.eu/en/documents/herbal-summary/ginger-summary-public_en.pdf) involved in the contraction of the smooth muscles inside the stomach and gut. This may prevent digestive upset and vomiting.
+Nausea, or the urge to vomit, can be caused by numerous factors such as stress, motion sickness, pregnancy, food poisoning, and the side effects of medical treatments like chemotherapy for cancer. 
 
-  ## 2 - Ginger may alleviate respiratory issues and cough
+Numerous studies have supported ginger’s anti-nausea effects and it has also been studied for relief of morning sickness in pregnant women. [One analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341159/) goes as far as suggesting: that *“ginger could be considered a harmless and possibly effective alternative option for women suffering from the symptoms of nausea and vomiting in pregnancy.”*
 
-  Respiratory issues can manifest from a variety of causes including asthma, allergies, influences, rhinovirus, bronchitis, or even pneumonia.  
+Ginger in Ayurveda is generally chewed upon for nausea relief along with a dash of lime and rock salt. The current scientific theory for gingers’ potential anti-nausea effects is that it [blocks the serotonin receptors](https://www.ema.europa.eu/en/documents/herbal-summary/ginger-summary-public_en.pdf) involved in the contraction of the smooth muscles inside the stomach and gut. This may prevent digestive upset and vomiting.
 
-  Studies have shown that ginger exhibits antiviral activity against some [respiratory viruses](https://pubmed.ncbi.nlm.nih.gov/23123794/) and can potentially help [relax bronchial airways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604064/). There is also evidence ginger may help suppress dry coughs and [allergic responses.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652391/) 
+## 2 – Ginger may alleviate respiratory issues and cough
 
-  In Ayurveda, ginger juice along with honey is often used as a warm tea to soothe respiratory symptoms. Similarly, dry ginger powder, and black pepper are made into a paste and used for cough relief.
+Respiratory issues can manifest from a variety of causes including asthma, allergies, influences, rhinovirus, bronchitis, or even pneumonia.  
 
-  ## 3 - Improves digestion
+Studies have shown that ginger exhibits antiviral activity against some [respiratory viruses](https://pubmed.ncbi.nlm.nih.gov/23123794/)and can potentially help [relax bronchial airways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604064/). There is also evidence ginger may help suppress dry coughs and [allergic responses.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8652391/) 
 
-  We’ve all experienced indigestion in various forms, whether stomach aches, heartburn, or bloatedness. Ginger may be able to help. Ginger has even been shown [as a promising treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489045/) for more severe issues such as inflammatory bowel syndrome (IBS).
+In Ayurveda, ginger juice along with honey is often used as a warm tea to soothe respiratory symptoms. Similarly, dry ginger powder, and black pepper are made into a paste and used for cough relief.
 
-  A Tabriz University [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6664109/) found that ginger “*can be considered as a useful complementary therapy for \[Functional Dyspepsia]”*, which is a term for recurring digestion that doesn’t have a set cause. The study also found that ginger helped to inhibit indigestion triggered by H. pylori, a type of bacteria that infects the stomach.
+## 3 – Improves digestion
 
-  In Ayurveda, indigestion is often said to be the result of a weak digestive fire or “*agni*” and excess Pitta. Recommendations focus initially on improving digestion or *“pachana”* through the use of lighter meals, like old rice and diluted yogurt with dried ginger and coriander leaves.
+We’ve all experienced indigestion in various forms, whether stomach aches, heartburn, or bloatedness. Ginger may be able to help. Ginger has even been shown [as a promising treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489045/) for more severe issues such as inflammatory bowel syndrome (IBS).
 
-  ## 4 - May reduce inflammation and related conditions
+A Tabriz University [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6664109/) found that ginger “*can be considered as a useful complementary therapy for \[Functional Dyspepsia]”*, which is a term for recurring digestion that doesn’t have a set cause. The study also found that ginger helped to inhibit indigestion triggered by H. pylori, a type of bacteria that infects the stomach.
 
-  Inflammation is a result of the body’s immune system malfunctioning. Chronic inflammation is increasingly being shown to underlie many of our most common illnesses so reducing it is critical to increasing wellness and healthspan.
+In Ayurveda, indigestion is often said to be the result of a weak digestive fire or “*agni*” and excess Pitta. Recommendations focus initially on improving digestion or *“pachana”*through the use of lighter meals, like old rice and diluted yogurt with dried ginger and coriander leaves.
 
-  Ginger in Ayurveda is used in many anti-inflammatory formations, often alongside a resin called Guggulu that is used to treat excess vata. You can find an excellent overview of the research studies that have been conducted on ginger’s anti-inflammatory effects [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115784/)[.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115784/)
+## 4 – May reduce inflammation and related conditions
 
-  ## 5 - Ginger may be helpful in preventing weight gain and obesity 
+Inflammation is a result of the body’s immune system malfunctioning. Chronic inflammation is increasingly being shown to underlie many of our most common illnesses so reducing it is critical to increasing wellness and healthspan.
 
-  Obesity is a major issue around the world, especially in countries like the US where 40% of adults are overweight. Obesity increases the risk for many life-threatening diseases, including diabetes, auto-immune disorders, heart disease, and stroke.
+Ginger in Ayurveda is used in many anti-inflammatory formations, often alongside a resin called Guggulu that is used to treat excess vata. You can find an excellent overview of the research studies that have been conducted on ginger’s anti-inflammatory effects [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115784/)[.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115784/)
 
-  Ginger has shown some encouraging results in the treatment of obesity through the regulation of energy metabolism. One [study](https://www.sciencedirect.com/science/article/abs/pii/S0955286319300932) in the Journal of Nutritional Biochemistry showed that “*dietary ginger prevents body weight gain by remodeling whole-body energy metabolism and inducing browning of white adipose tissue (WAT)*,” and cited ginger as a plant that helps the therapeutic treatment of obesity and related disorders.
+## 5 – Ginger may be helpful in preventing weight gain and obesity 
 
-  ## 6- May reduce the risk of cardiovascular disease
+Obesity is a major issue around the world, especially in countries like the US where 40% of adults are overweight. Obesity increases the risk for many life-threatening diseases, including diabetes, auto-immune disorders, heart disease, and stroke.
 
-  Heart disease, plaque buildup, heart attack, stroke, and heart failure are a leading cause of death in many countries, including the US. Ginger has been shown to reduce [diabetic heart structure ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768050/)abnormalities in animal studies conducted by the Urmia University of Medical Sciences.
+Ginger has shown some encouraging results in the treatment of obesity through the regulation of energy metabolism. One [study](https://www.sciencedirect.com/science/article/abs/pii/S0955286319300932) in the Journal of Nutritional Biochemistry showed that “*dietary ginger prevents body weight gain by remodeling whole-body energy metabolism and inducing browning of white adipose tissue (WAT)*,” and cited ginger as a plant that helps the therapeutic treatment of obesity and related disorders.
 
-  It’s important to note that in Ayurveda, the approach to treating issues like cardiovascular disease are person-specific and outside the scope of this discussion.
+## 6- May reduce the risk of cardiovascular disease
 
-  ## 7 - Regulating blood sugar, diabetes and hyperglycemia
+Heart disease, plaque buildup, heart attack, stroke, and heart failure are a leading cause of death in many countries, including the US. Ginger has been shown to reduce [diabetic heart structure ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768050/)abnormalities in animal studies conducted by the Urmia University of Medical Sciences.
 
-  Chronic high blood sugar, or hyperglycemia, is associated with Diabetes. This could be of two kinds: Type 1 diabetes which is a genetic condition that often shows up early in life, and Type 2 diabetes which is generally lifestyle-related and shows up later in life. There is evidence that [ginger may help insulin sensitivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5818945/) and improve blood lipid profiles.
+It’s important to note that in Ayurveda, the approach to treating issues like cardiovascular disease are person-specific and outside the scope of this discussion.
 
-  Diabetes, in Ayurveda, is predominantly a Kapha dosha disorder that has many variants involving body tissues. Ginger in Ayurveda is commonly used in combination with other interventions to treat these conditions.
+## 7 – Regulating blood sugar, diabetes and hyperglycemia
 
-  ## 8 - Alleviating PMS symptoms
+Chronic high blood sugar, or hyperglycemia, is associated with Diabetes. This could be of two kinds: Type 1 diabetes which is a genetic condition that often shows up early in life, and Type 2 diabetes which is generally lifestyle-related and shows up later in life. There is evidence that [ginger may help insulin sensitivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5818945/) and improve blood lipid profiles.
 
-  Premenstrual symptoms, both physiological and psychological, can be complex, leading to mood shifts, anxiety, bloating, cramps, and other forms of discomfort. Ginger has been studied to have a beneficial impact in relieving [symptoms such as anxiety, migraines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040198/), and [mood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4871956/).
+Diabetes, in Ayurveda, is predominantly a Kapha dosha disorder that has many variants involving body tissues. Ginger in Ayurveda is commonly used in combination with other interventions to treat these conditions.
 
-  In Ayurveda, disturbed menstruation is a complex condition that involves a detailed analysis of doshic imbalance, purification, and pacification along with diet and lifestyle modification. Among other things, use of ginger or shunti is also indicated as a part of a wholesome diet during this period.
+## 8 – Alleviating PMS symptoms
 
-  ## 9- Improves immunity
+Premenstrual symptoms, both physiological and psychological, can be complex, leading to mood shifts, anxiety, bloating, cramps, and other forms of discomfort. Ginger has been studied to have a beneficial impact in relieving [symptoms such as anxiety, migraines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040198/), and [mood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4871956/).
 
-  Our immune system is the bedrock of our health, protecting against outside threats and anticipating what the body needs to keep in balance. Ginger has shown a potential to exhibit indirect inhibitory effects on the viral life cycle and exhibited anti-inflammatory, [immunomodulatory properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8492833/).
+In Ayurveda, disturbed menstruation is a complex condition that involves a detailed analysis of doshic imbalance, purification, and pacification along with diet and lifestyle modification. Among other things, use of ginger or shunti is also indicated as a part of a wholesome diet during this period.
 
-  It’s important to keep in mind that each human’s immune system can vary as a consequence of heritable and non-heritable influences. Non-heritable influences, like symbiotic and pathogenic microbes, can explain a lot of this variation. The heritable (genetic) basis of individual’s differing susceptibility to the same viruses is an active research area. Even the same individual’s immunity could vary significantly by circadian rhythms, seasons and age. I’ve discussed immunity in Ayurveda more in this [video workshop](http://ayurkula.com/2021/06/02/immunity-in-ayurveda/) as well as this piece on the [coronavirus](http://ayurkula.com/2020/03/06/is-ayurveda-even-relevant-for-coronavirus/). 
+## 9- Improves immunity
 
-  ## 10- May help fight cancer
+Our immune system is the bedrock of our health, protecting against outside threats and anticipating what the body needs to keep in balance. Ginger has shown a potential to exhibit indirect inhibitory effects on the viral life cycle and exhibited anti-inflammatory, [immunomodulatory properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8492833/).
 
-  Cancer involves abnormal cell growth which is often facilitated by an underactive immune system. Treatment approaches for cancer are best left to medical experts, but there is the potential to involve an Ayurvedic approach in an integrative and adjuvant manner.
+It’s important to keep in mind that each human’s immune system can vary as a consequence of heritable and non-heritable influences. Non-heritable influences, like symbiotic and pathogenic microbes, can explain a lot of this variation. The heritable (genetic) basis of individual’s differing susceptibility to the same viruses is an active research area. Even the same individual’s immunity could vary significantly by circadian rhythms, seasons and age. I’ve discussed immunity in Ayurveda more in this [video workshop](https://ayurkula.com/2021/06/02/immunity-in-ayurveda/) as well as this piece on the [coronavirus](https://ayurkula.com/2020/03/06/is-ayurveda-even-relevant-for-coronavirus/). 
 
-  Ginger derivatives have shown [chemopreventive properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234951/) which are under study for drug development. Research has highlighted ginger’s potential to help fight [gastrointestinal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369959/), [colorectal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2430145/), [ovarian](https://pubmed.ncbi.nlm.nih.gov/28761826/), and [breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5641128/).
+## 10- May help fight cancer
 
-  ## 11- Aids brain function, including in Alzheimer’s disease
+Cancer involves abnormal cell growth which is often facilitated by an underactive immune system. Treatment approaches for cancer are best left to medical experts, but there is the potential to involve an Ayurvedic approach in an integrative and adjuvant manner.
 
-  Stress and brain disorders such as Alzhiemer’s, which are associated with memory loss and dementia, are rapidly increasing across the globe. 
+Ginger derivatives have shown [chemopreventive properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234951/) which are under study for drug development. Research has highlighted ginger’s potential to help fight [gastrointestinal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369959/), [colorectal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2430145/), [ovarian](https://pubmed.ncbi.nlm.nih.gov/28761826/), and [breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5641128/).
 
-  Ginger root extract was found to be protective against the disease in Alzhiemer’s disease in [studies on rats](https://pubmed.ncbi.nlm.nih.gov/23374025/). It attenuates senile plaque-forming amyloid-associated[ cell death.](https://pubmed.ncbi.nlm.nih.gov/21396424/) The study says “g*ingerol exhibits preventive and/or therapeutic potential for the management of AD via augmentation of antioxidant capacity.”*
+## 11- Aids brain function, including in Alzheimer’s disease
 
-  Ayurveda deals with the mind or manas, memory and other conditions utilizing an extended set of approaches under rejuvenation related Rasayan Shastra, which are outside the scope of this discussion.
+Stress and brain disorders such as Alzhiemer’s, which are associated with memory loss and dementia, are rapidly increasing across the globe. 
 
-  ## Ayurvedic recipes using ginger
+Ginger root extract was found to be protective against the disease in Alzhiemer’s disease in [studies on rats](https://pubmed.ncbi.nlm.nih.gov/23374025/). It attenuates senile plaque-forming amyloid-associated[ cell death.](https://pubmed.ncbi.nlm.nih.gov/21396424/) The study says “g*ingerol exhibits preventive and/or therapeutic potential for the management of AD via augmentation of antioxidant capacity.”*
 
-  If you have got this far, you no doubt agree that there is enough signal that ginger may be a beneficial thing! However, it’s important to use moderation, especially with so-called “superfoods” like ginger in Ayurveda. If ginger was the only thing needed for health, most of the world would be sleeping healthy and peacefully. 
+Ayurveda deals with the mind or manas, memory and other conditions utilizing an extended set of approaches under rejuvenation related Rasayan Shastra, which are outside the scope of this discussion.
 
-  Now let’s get beyond gingerbread cookies and explore the use of ginger in Ayurveda in practice, in both raw and powdered form. 
+## Ayurvedic recipes using ginger
 
-  For example: 
+If you have got this far, you no doubt agree that there is enough signal that ginger may be a beneficial thing! However, it’s important to use moderation, especially with so-called “superfoods” like ginger in Ayurveda. If ginger was the only thing needed for health, most of the world would be sleeping healthy and peacefully. 
 
-  ### Ginger tea
+Now let’s get beyond gingerbread cookies and explore the use of ginger in Ayurveda in practice, in both raw and powdered form. 
 
-  Bring a cup of water to boil, squish a small 1-inch blob of ginger into it, squeeze some lime, add a dash of honey, and twiddle your toes on your couch with your favorite book.
+For example: 
 
-  ### Warm Ginger milk with Honey and Turmeric
+### Ginger tea
 
-  Warm a cup of your favorite kind of milk to a boil, add a pinch each of dried ginger powder and turmeric, one ground cardamom. Add honey to taste and enjoy it as your bedtime drink, especially in the winters. 
+Bring a cup of water to boil, squish a small 1-inch blob of ginger into it, squeeze some lime, add a dash of honey, and twiddle your toes on your couch with your favorite book.
 
-  ![Ginger, turmeric, cinnamon and honey with milk](/assets/screen-shot-2022-07-27-at-12.05.28-pm.png)
+### Warm Ginger milk with Honey and Turmeric
 
-  ### Ginger Carrot Soup
+Warm a cup of your favorite kind of milk to a boil, add a pinch each of dried ginger powder and turmeric, one ground cardamom. Add honey to taste and enjoy it as your bedtime drink, especially in the winters. 
 
-  ![Ginger carrot soup](/assets/screen-shot-2022-07-27-at-12.06.38-pm.png)
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.34.02-pm.png?w=1024)
+
+Ginger, turmeric, cinnamon and honey with milk
+
+### Ginger Carrot Soup
+
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.35.36-pm.png?w=1024)
+
+Ginger carrot soup
 
 1. Take a few carrots (eg. 4-5 for ratio) and about 2 inches of ginger. Scrub and chop into one inch pieces. 
 2. Warm butter or ghee in a pan and add the ginger and carrot pieces.
@@ -170,7 +178,9 @@ It is used in various conditions including as an:
 
 ### Ginger Tomato Chutney
 
-![Ginger Tomato Chutney](/assets/screen-shot-2022-07-27-at-12.13.29-pm.png)
+![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.36.49-pm.png?w=1024)
+
+Ginger Tomato Chutney
 
 Make as much as you wish of this tomato chutney because it won’t stay around long — it usually gets eaten before you know it!
 
@@ -186,7 +196,3 @@ There are numerous other ways to use and experiment with ginger – as a meat te
 **Bottomline: Ginger in Ayurveda can be wonderful but use common sense and always consult your doctor!**
 
 To learn more, you can subscribe to our newsletter or write me a note at [rajat@ayurkula.org](<>). I offer workshops as well as deeper content on the above.
-
-### Disclaimer
-
-All content is for educational purposes only. Please consult your medical practitioner before attempting any therapeutic, nutritional, exercise or meditation related activity.
