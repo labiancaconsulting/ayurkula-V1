@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Health Benefits of Ghee in Ayurveda and Modern Science
-slug: /minimalists-desk
+slug: /Health-benefits-of-ghee-in-ayurveda
 date: 2020-05-13 12:46
 description: In this post, we will explore the health benefits of ghee in
   Ayurveda, tying in modern science. We’ll first discuss the history and
