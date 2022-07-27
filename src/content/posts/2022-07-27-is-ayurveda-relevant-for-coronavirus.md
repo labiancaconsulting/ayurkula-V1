@@ -46,7 +46,7 @@ As a general rule, immunocompromised individuals, like the very young and the ol
 
 Coronaviruses in general are zoonotic, i.e., they spread between animals and humans. An original host like a bat infects an intermediate host like a pig, cow, or bird, and finally infect humans (known as the novel hosts). Other examples of zoonotic viruses include HIV, Ebola, influenza A, hantavirus and henipavirus. For reasons not entirely understood, while the reservoir host remains relatively healthy, the coronaviruses, which have high viral diversity, cause a variety of diseases in intermediate hosts and often lethal respiratory infections in the final human host. Different coronavirus types include alpha and beta, which are found in mammals, and gamma and delta, which infect mostly birds.
 
-![](https://lh6.googleusercontent.com/B0enu7PtXfo3NQyk3VLPLvImtpIvx22j5ZH972sAMFg58VpAoYy6L_mY09bPKRyZsPFfI39_AJdpk-OHV37Qr_F8_p2Hu0pwuOZ0t5ceGwDvUDayA5fYyAiaWGFOuAi6-qX6AAqD)
+![](/assets/screen-shot-2020-02-05-at-10.52.40-am-2.png)
 
 ###### *Source:”Reservoir Host Immune Responses to Emerging Zoonotic Viruses” Judith N. Mandel and others-study on NCBI* 
 
@@ -153,7 +153,7 @@ This drink is a decoction of six (*shadang*) drugs in water and is employed to a
 
 See discussion under Trikatu below*.
 
-***2*:* “*Agastya Harityaki “***
+***2*: *“*Agastya Harityaki “***
 
 **Agastya Haritaki (Terminalia Chebula/Harad)**
 
@@ -164,7 +164,7 @@ See discussion under Trikatu below*.
 * “[T. chebula fruits afforded fo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3631759/)ur immunodeficiency virus type 1 (HIV-1) integrase inhibitors, GA (I) and three galloyl glucoses (II-IV). Their galloyl moiety plays a major role for inhibition against the 3′-processing of HIV-1 integrase of the compounds. T. chebula has also retroviral reverse transcriptase inhibitory activity. It protects epithelial cells against influenza A virus, supporting its traditional use for aiding in recovery from acute respiratory infections. The methanol and aqueous extracts of T. chebula showed a significant inhibitory activity with IC50≤5 µg/mL on human immunodeficiency virus-1 reverse transcriptase. It also demonstrated the therapeutic activity against herpes simplex virus both in vitro and in vivo tests. These findings prompted a team of Japanese researchers to investigate T. chebulas’s effect on human cytomegalovirus (CMV). They found that T. chebula was effective in inhibiting the replication of human cytomegalovirus in vitro and in an AIDS model with immunosuppressed mice and concluded that it may be beneficial for the prevention of CMV diseases and immunocompromised patients. It is also helpful in sexually transmitted diseases and AIDS. Tannins from T. chebula are effective against potato virus x.”
 * A study on cytoprotective of Haritaki opines: “[The ethanolic extrac](https://www.ncbi.nlm.nih.gov/pubmed/15478203)t of T. chebula fruit exhibited a notable cytoprotective effect on the HEK-N/F cells”.
 
-***3**: “*Samshamani Vati***“
+**\*3**: “\*Samshamani Vati\*\*\*“
 
 **Samshamani Vati  (Guduchi/Tinospora Cordifolia/Giloy)**
 
