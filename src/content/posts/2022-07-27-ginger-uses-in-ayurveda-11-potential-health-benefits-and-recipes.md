@@ -2,7 +2,7 @@
 template: blog-post
 title: Ginger uses in Ayurveda - 11 Potential Health Benefits and Recipes
 slug: ginger-in-ayurveda-13-potential-health-benefits-uses-and-recipes
-date: 2022-07-27 12:00
+date: 2022-07-27 14:51
 description: In this blog post, we’ll be exploring the uses of ginger in
   Ayurveda through the lens of modern science. Ginger in Ayurveda has been
   traditionally used to balance doshas and treat many different types of
