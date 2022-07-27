@@ -9,6 +9,7 @@ description: In this piece, I provide an overview of the human immune system and
   recommendations for herbal treatments that can potentially help people
   strengthen their immune systems and ability to fight viruses like the
   Coronavirus.
+featuredImage: /assets/screen-shot-2020-02-05-at-10.52.40-am-2.png
 ---
 **Summary**
 
@@ -46,7 +47,7 @@ As a general rule, immunocompromised individuals, like the very young and the ol
 
 Coronaviruses in general are zoonotic, i.e., they spread between animals and humans. An original host like a bat infects an intermediate host like a pig, cow, or bird, and finally infect humans (known as the novel hosts). Other examples of zoonotic viruses include HIV, Ebola, influenza A, hantavirus and henipavirus. For reasons not entirely understood, while the reservoir host remains relatively healthy, the coronaviruses, which have high viral diversity, cause a variety of diseases in intermediate hosts and often lethal respiratory infections in the final human host. Different coronavirus types include alpha and beta, which are found in mammals, and gamma and delta, which infect mostly birds.
 
-![](/assets/screen-shot-2020-02-05-at-10.52.40-am-2.png)
+![coronavirus path](/assets/screen-shot-2020-02-05-at-10.52.40-am-2.png)
 
 ###### *Source:”Reservoir Host Immune Responses to Emerging Zoonotic Viruses” Judith N. Mandel and others-study on NCBI* 
 
