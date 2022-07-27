@@ -52,7 +52,7 @@ It is used in various conditions including as an:
 * treatment for cold, cough, respiratory issues
 * dissolver of toxins
 
-![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.29.07-pm.png?w=876)
+![](/assets/screen-shot-2022-06-07-at-12.29.07-pm.png)
 
 Ginger root scientific and ayurvedic benefits
 
@@ -162,13 +162,13 @@ Bring a cup of water to boil, squish a small 1-inch blob of ginger into it, sque
 
 Warm a cup of your favorite kind of milk to a boil, add a pinch each of dried ginger powder and turmeric, one ground cardamom. Add honey to taste and enjoy it as your bedtime drink, especially in the winters. 
 
-![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.34.02-pm.png?w=1024)
+![](/assets/screen-shot-2022-06-07-at-12.34.02-pm.png)
 
 Ginger, turmeric, cinnamon and honey with milk
 
 ### Ginger Carrot Soup
 
-![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.35.36-pm.png?w=1024)
+![](/assets/screen-shot-2022-06-07-at-12.35.36-pm.png)
 
 Ginger carrot soup
 
@@ -179,7 +179,7 @@ Ginger carrot soup
 
 ### Ginger Tomato Chutney
 
-![](https://ayurkula.files.wordpress.com/2022/06/screen-shot-2022-06-07-at-12.36.49-pm.png?w=1024)
+![](/assets/screen-shot-2022-06-07-at-12.36.49-pm.png)
 
 Ginger Tomato Chutney
 
