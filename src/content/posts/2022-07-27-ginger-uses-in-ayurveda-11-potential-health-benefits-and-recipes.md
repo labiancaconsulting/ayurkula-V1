@@ -187,8 +187,6 @@ There are numerous other ways to use and experiment with ginger – as a meat te
 
 To learn more, you can subscribe to our newsletter or write me a note at [rajat@ayurkula.org](<>). I offer workshops as well as deeper content on the above.
 
-
-
 ### Disclaimer
 
 All content is for educational purposes only. Please consult your medical practitioner before attempting any therapeutic, nutritional, exercise or meditation related activity.
