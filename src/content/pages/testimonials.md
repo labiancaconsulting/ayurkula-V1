@@ -1,7 +1,7 @@
 ---
-template: join-page
-slug: /join
-title: Join
+template: testimonial-page
+slug: /testimonials
+title: Testimonials
 ---
 **Rajat Bhu, Founder**
 
